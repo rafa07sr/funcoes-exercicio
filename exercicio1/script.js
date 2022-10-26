@@ -29,7 +29,7 @@ const tabuada = (num) => {
 
 }
 
-tabuada(2)
+tabuada(88)
 
 // fiz o texto em crase para expecificar o valor da multiplicação determinei
 // que isso seria multiplicado pelo valor do texto
