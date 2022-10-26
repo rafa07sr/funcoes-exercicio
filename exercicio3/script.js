@@ -22,8 +22,8 @@ let numero1 = Number(prompt("digite um valor"))
 let numero2 = Number(prompt("digite um valor"))
 
 console.log(`a soma é:`, soma(numero1, numero2))
-console.log(`a subtração é`,subtracao(numero1, numero2))
-console.log(`a divisão é`,divisao(numero1, numero2))
+console.log(`a subtração é`, subtracao(numero1, numero2))
+console.log(`a divisão é`, divisao(numero1, numero2))
 console.log(`a multiplicação é`, multiplicacao(numero1, numero2))
 
 /* a)Crie 4 funções, cada uma deve receber dois parâmetros numéricos e retornar o valor de uma das operações básicas (soma, subtração, multiplicação e divisão).
